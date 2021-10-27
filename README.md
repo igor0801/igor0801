@@ -1,8 +1,7 @@
 ### Fala! Sou Igor Oliveira Brito! 👋
 
-- 🔭 Em busca de uma oportunidade em TI
-- 🌱 GTI e Futuro Engenheiro da Computação
-- 🤔 Preciso de ajuda com JavaScript e Python
+- 🌱 Estudante de Gestãod e TI
+- 🤔 Aprendendo JavaScript e Python
 - 💬 Contate-me por: iobrito080101@gmail.com
 - ⚡ Amante de Livros do Gênero Policial (Sherlock Holmes e Hercule Poirot)
 
