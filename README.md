@@ -1,10 +1,5 @@
 ### Fala! Sou Igor Oliveira Brito! 👋
 
-- 🌱 Estudante de Gestão de TI
-- 🤔 Aprendendo JavaScript e Python
-- 💬 Contate-me por: iobrito080101@gmail.com
-- ⚡ Amante de Livros do Gênero Policial (Sherlock Holmes e Hercule Poirot)
-
 <div align="center">
   <a href="https://github.com/igor0801">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igor0801&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
