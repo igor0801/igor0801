@@ -1,4 +1,4 @@
-### Fala! Sou Igor Oliveira Brito! 👋
+### Sou Igor Brito! 👋
 
 <div align="center">
   <a href="https://github.com/igor0801">
